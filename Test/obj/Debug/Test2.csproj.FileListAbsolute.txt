@@ -1,0 +1,17 @@
+D:\Practica\Test2\bin\Debug\Test2.exe.config
+D:\Practica\Test2\bin\Debug\Test2.exe
+D:\Practica\Test2\bin\Debug\Test2.pdb
+D:\Practica\Test2\obj\Debug\Test2.csproj.AssemblyReference.cache
+D:\Practica\Test2\obj\Debug\Test2.csproj.SuggestedBindingRedirects.cache
+D:\Practica\Test2\obj\Debug\Test2.Form1.resources
+D:\Practica\Test2\obj\Debug\Test2.Properties.Resources.resources
+D:\Practica\Test2\obj\Debug\Test2.csproj.GenerateResource.cache
+D:\Practica\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+D:\Practica\Test2\obj\Debug\Test2.exe
+D:\Practica\Test2\obj\Debug\Test2.pdb
+D:\Practica\Test2\bin\Debug\Newtonsoft.Json.dll
+D:\Practica\Test2\bin\Debug\Newtonsoft.Json.xml
+D:\Practica\Test2\obj\Debug\Test2.csproj.CopyComplete
+D:\Practica\Test2\bin\Debug\Produse.mdf
+D:\Practica\Test2\bin\Debug\Produse_log.ldf
+D:\Practica\Test2\obj\Debug\Test2.Form2.resources
